@@ -1,0 +1,24 @@
+{
+  "name": "raspberrypiclient",
+  "version": "1.0.0",
+  "description": "code to provide user interface for raspberry pi project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apollowebdesigns/raspberrypiclient.git"
+  },
+  "author": "Andy Evans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apollowebdesigns/raspberrypiclient/issues"
+  },
+  "homepage": "https://github.com/apollowebdesigns/raspberrypiclient#readme",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1"
+  }
+}

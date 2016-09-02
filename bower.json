@@ -1,0 +1,20 @@
+{
+  "name": "raspberrypiclient",
+  "description": "code to provide user interface for raspberry pi project",
+  "main": "app.js",
+  "authors": [
+    "Andy Evans"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/apollowebdesigns/raspberrypiclient",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
